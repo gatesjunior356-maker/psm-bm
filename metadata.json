@@ -1,0 +1,6 @@
+{
+  "name": "PSM Banaspati Mojopahit",
+  "description": "Website resmi Perkumpulan Swadaya Masyarakat (PSM) Banaspati Mojopahit Jawa Timur dengan struktur kepengurusan, sejarah, legalitas, divisi kerja, dan kontak sekretariat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
